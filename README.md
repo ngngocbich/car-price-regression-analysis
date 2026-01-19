@@ -6,7 +6,7 @@ Analysis of factors affecting car prices using multiple linear regression
 What factors drive car prices, and how do technology (EV/Hybrid) and brand influence MSRP?
 
 ## Dataset
-- Source: Kaggle – Car Features and MSRP Dataset
+- Source: Kaggle – Car Features and MSRP Dataset (https://www.kaggle.com/datasets/CooperUnion/cardataset/data)
 - Size: ~7,900 observations
 - Variables: Engine HP, Cylinders, Fuel Type, Brand, MSRP, etc.
 
